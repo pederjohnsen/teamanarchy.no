@@ -1,0 +1,13 @@
+body {
+  background: url(../images/plank.png);
+  color: #71737b;
+  margin: 0;
+  padding: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  font-weight: normal;
+  line-height: 18px;
+}
+.btn {
+  border-radius: 0;
+}
