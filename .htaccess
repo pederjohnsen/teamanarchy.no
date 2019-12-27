@@ -1,6 +1,0 @@
-RewriteEngine On
-RewriteCond %{http_host} ^teamanarchy.no [nc]
-RewriteRule ^(.*)$ http://www.teamanarchy.no/$1 [r=301,nc]
-RewriteBase /
-
-RewriteRule ^([^/]+)\.html$ /$1.php
