@@ -14,13 +14,13 @@ const IndexPage = () => (
 
     <div>
       <p>
-        <a id="facebook" href="https://www.facebook.com/groups/441495535894617">
-          <img src={"/images/team-anarchy-facebook.png?1"} alt="Team Anarchy Facebook" width="516" />
+        <a id="fumbbl" href="https://www.dropbox.com/s/4n0wbxplirwx8p0/Tapletop%20Blood%20Bowl%20using%20FUMBBL%20-%20AnBBL%20edition.pdf?dl=0" target="_blank">
+          <img src={"/images/fumbbl.png?1"} alt="Tabletop Blood Bowl @ FUMBBL" width="516" />
         </a>
       </p>
       <p>
-        <a id="fumbbl" href="https://www.dropbox.com/s/4n0wbxplirwx8p0/Tapletop%20Blood%20Bowl%20using%20FUMBBL%20-%20AnBBL%20edition.pdf?dl=0" target="_blank">
-          <img src={"/images/fumbbl.png?1"} alt="Tabletop Blood Bowl @ FUMBBL" width="516" />
+        <a id="facebook" href="https://www.facebook.com/groups/441495535894617">
+          <img src={"/images/team-anarchy-facebook.png?1"} alt="Team Anarchy Facebook" width="516" />
         </a>
       </p>
       <p>
