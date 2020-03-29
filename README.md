@@ -23,6 +23,8 @@
 
 ## 💫 Deploy
 
-    ```shell
-    npm run deploy
-    ```
+Deploy it to `gh-pages` branch.
+
+```shell
+npm run deploy
+```
