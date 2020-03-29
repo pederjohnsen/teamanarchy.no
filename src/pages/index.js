@@ -19,6 +19,11 @@ const IndexPage = () => (
         </a>
       </p>
       <p>
+        <a id="fumbbl" href="https://www.dropbox.com/s/4n0wbxplirwx8p0/Tapletop%20Blood%20Bowl%20using%20FUMBBL%20-%20AnBBL%20edition.pdf?dl=0" target="_blank">
+          <img src={"/images/fumbbl.png?1"} alt="Tabletop Blood Bowl @ FUMBBL" width="516" />
+        </a>
+      </p>
+      <p>
         <a id="belugacampaign" href="https://www.dropbox.com/sh/zpwkajnlvv1ar6p/AABZur6vJE2oDM4d8urrZNM1a?dl=0" target="_blank">
           <img src={"/images/belugacampaign.jpg"} alt="The Beluga Campaign" width="516" />
         </a>
