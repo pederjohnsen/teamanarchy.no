@@ -7,7 +7,7 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <div>
-      <a href="http://www.anarchy.bloodbowlleague.com/">
+      <a href="http://www.anarchy.bloodbowlleague.net/">
         <img src={"/images/logo.png"} alt="Logo" width="519" height="106" />
       </a>
     </div>
@@ -33,8 +33,8 @@ const IndexPage = () => (
         <a href="https://www.zoho.com/mail/login.html" target="_blank" class="button">E-post innlogging</a>
       </p>
       <p><img src={"/images/team-anarchy-forum.png?1"} alt="Team Anarchy Forum" height="258" /></p>
-      <p><a id="keffokup18" href="http://www.anarchy.bloodbowlleague.com/default.asp?p=sr&s=32" target="_blank"><img src={"/images/daKeffoKup18.jpg"} alt="Keffo Kup 18" /></a></p>
-      <p><a id="keffokup17" href="http://www.anarchy.bloodbowlleague.com/default.asp?p=sr&s=28" target="_blank"><img src={"/images/da_keffo_kup_17.png"} alt="Keffo Kup 17" /></a></p>
+      <p><a id="keffokup18" href="http://www.anarchy.bloodbowlleague.net/default.asp?p=sr&s=32" target="_blank"><img src={"/images/daKeffoKup18.jpg"} alt="Keffo Kup 18" /></a></p>
+      <p><a id="keffokup17" href="http://www.anarchy.bloodbowlleague.net/default.asp?p=sr&s=28" target="_blank"><img src={"/images/da_keffo_kup_17.png"} alt="Keffo Kup 17" /></a></p>
       <p><a id="plakat4" href="https://www.facebook.com/groups/441495535894617/search/?query=%C3%A5pen%20dag&__mref=message_bubble"><img src={"/images/plakat-4.jpg"} alt="&Aring;pen dag l&oslash;rdag 9. april" width="664" /></a></p>
       <p><a id="plakat3" href="https://www.facebook.com/groups/441495535894617/search/?query=%C3%A5pen%20dag&__mref=message_bubble"><img src={"/images/plakat-3.jpg"} alt="Plakat" width="664" /></a></p>
       <p><a id="plakat2" href="https://www.facebook.com/events/836640579729194"><img src={"/images/northernbattlefieldsii.png"} alt="Plakat" width="664" /></a></p>
