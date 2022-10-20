@@ -29,7 +29,7 @@ const IndexPage = () => (
         </a>
       </p>
       <p><a id="ttb-intervju" href="images/ttb_intervju.png" target="_blank"><img src={"/images/ttb_intervju_thumb.png"} alt="TTB Intervju" width="720" /></a></p>
-      <p><img src{"/images/team_anarchy.JPG?1"} alt="Team Anarchy" width="516" /></p>
+      <p><img src={"/images/team_anarchy.JPG?1"} alt="Team Anarchy" width="516" /></p>
       <p>
         <a href="https://www.zoho.com/mail/login.html" target="_blank" class="button">E-post innlogging</a>
       </p>
