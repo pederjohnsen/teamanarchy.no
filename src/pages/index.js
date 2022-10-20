@@ -33,7 +33,7 @@ const IndexPage = () => (
       <p>
         <a href="https://www.zoho.com/mail/login.html" target="_blank" class="button">E-post innlogging</a>
       </p>
-      <iframe style="background-color: #FFFFFF" width="516" height="600" frameborder="0" marginwidth="0" marginheight="0" src="https://n4f.hypersys.no/forms/innmelding-ta/iframe/">Laster...</iframe>
+      <iframe style={{backgroundColor: "#fff"}} width="516" height="600" frameborder="0" marginwidth="0" marginheight="0" src="https://n4f.hypersys.no/forms/innmelding-ta/iframe/">Laster...</iframe>
       <p><img src={"/images/team-anarchy-forum.png?1"} alt="Team Anarchy Forum" height="258" /></p>
       <p><a id="keffokup18" href="http://www.anarchy.bloodbowlleague.net/default.asp?p=sr&s=32" target="_blank"><img src={"/images/daKeffoKup18.jpg"} alt="Keffo Kup 18" /></a></p>
       <p><a id="keffokup17" href="http://www.anarchy.bloodbowlleague.net/default.asp?p=sr&s=28" target="_blank"><img src={"/images/da_keffo_kup_17.png"} alt="Keffo Kup 17" /></a></p>
